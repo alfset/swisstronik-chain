@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/evmos/evmos/v18/types"
+	"github.com/alfset/swisstronik-chain/types"
 )
 
 const (

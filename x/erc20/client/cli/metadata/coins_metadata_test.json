@@ -1,27 +1,27 @@
 {
   "metadata": [
     {
-      "description": "The native staking and governance token of the Evmos chain",
+      "description": "The native staking and governance token of the Swisstronik chain",
       "denom_units": [
         {
-          "denom": "aevmos",
+          "denom": "aswtr",
           "exponent": 0
         },
         {
-          "denom": "evmos",
+          "denom": "swtr",
           "exponent": 18
         }
       ],
-      "base": "aevmos",
-      "display": "aevmos",
-      "name": "aevmos",
-      "symbol": "EVMOS"
+      "base": "aswtr",
+      "display": "aswtr",
+      "name": "aswtr",
+      "symbol": "SWTR"
     },
     {
       "description": "The native staking and governance token of the Osmosis chain",
       "denom_units": [
         {
-          "denom": "ibc/0429A217F7AFD21E67CABA80049DD56BB0380B77E9C58C831366D6626D42F399",
+          "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
           "exponent": 0,
           "aliases": [
             "ibcuosmo"
@@ -32,7 +32,7 @@
           "exponent": 6
         }
       ],
-      "base": "ibc/0429A217F7AFD21E67CABA80049DD56BB0380B77E9C58C831366D6626D42F399",
+      "base": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
       "display": "OSMO",
       "name": "Osmo",
       "symbol": "OSMO"

@@ -1,21 +1,21 @@
 {
   "metadata": [
     {
-      "description": "The native staking and governance token of the Evmos chain",
+      "description": "The native staking and governance token of the Swisstronik chain",
       "denom_units": [
         {
-          "denom": "aevmos",
+          "denom": "aswtr",
           "exponent": 0
         },
         {
-          "denom": "evmos",
+          "denom": "swtr",
           "exponent": 18
         }
       ],
-      "base": "aevmos",
-      "display": "aevmos",
-      "name": "aevmos",
-      "symbol": "EVMOS"
+      "base": "aswtr",
+      "display": "aswtr",
+      "name": "aswtr",
+      "symbol": "SWTR"
     }
   ]
 }

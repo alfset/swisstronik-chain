@@ -6,7 +6,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/evmos/evmos/v18/utils"
+	"github.com/alfset/swisstronik-chain/utils"
 )
 
 var DefaultTokenPairs = []TokenPair{
